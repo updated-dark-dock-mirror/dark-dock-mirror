@@ -72,4 +72,6 @@ Keep a list of **DarkDock mirror links** handy. If the primary site is unreachab
 
 <a href="http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion"><img src="/vectors/keep.webp" alt="DarkDock Register" style="max-width: 100%;"></a>
 
-Update: Contact URLs
+
+
+Update: url is functioning
