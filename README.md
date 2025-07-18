@@ -78,4 +78,6 @@ Keep a list of **DarkDock mirror links** handy. If the primary site is unreachab
 
 
 
-Update:  14.07.2025 04:14 Fixed inaccessible link
+
+
+Update: link is alive
